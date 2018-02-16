@@ -319,7 +319,7 @@
         </ratesource>
         <cryptologo cryptocurrency="POT" file="pot.png"/>
     </extension>
-    <extension class="com.generalbytes.batm.server.extensions.extra.dexacoin.DexCoinSupport">
+    <extension class="com.generalbytes.batm.server.extensions.extra.dexacoin.DexCoinExtension">
         <ratesource prefix="dex_fix" name ="Fix Price" >
             <param name="price" />
             <param name="fiatcurrency" />
